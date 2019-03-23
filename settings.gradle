@@ -12,4 +12,5 @@ rootProject.name = 'spring-cloud-eureka-simple'
 include 'provider'
 include 'consumer'
 include 'eureka-server'
+include 'consumer-feign'
 

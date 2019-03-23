@@ -12,7 +12,6 @@ repositories {
 
 dependencies {
     implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
-    implementation 'org.springframework.cloud:spring-cloud-starter-feign'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server'
