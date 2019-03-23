@@ -1,0 +1,15 @@
+
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'spring-cloud-eureka-simple'
+
+
+
+include 'provider'
+include 'consumer'
+include 'eureka-server'
+
